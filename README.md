@@ -1,7 +1,7 @@
 learningr
 =========
 
-Data and functions to accompany the book "Learning R".
+Data and functions to accompany the book [Learning R](http://shop.oreilly.com/product/0636920028352.do "Learning R in the O'Reilly shop").
 
 To install, you first need the `devtools` package.
 
