@@ -10,6 +10,6 @@ To install, you first need the `devtools` package.
 Then you can install the `learningr` package using    
   
     library(devtools)
-    install_github("learningr", 'richierocks")
+    install_github("learningr", "richierocks")
     
     
