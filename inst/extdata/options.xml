@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<root>
+<variable name="add_smooth" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="browserNLdisabled" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="CBoundsCheck" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="check_bounds" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="citation_bibtex_max" type="numeric">
+	<value>1</value>
+</variable>
+<variable name="continue" type="character">
+	<value>+ </value>
+ </variable>
+<variable name="contrasts" type="character">
+	<value>contr.treatment</value>
+	<value>contr.poly</value>
+ </variable>
+<variable name="defaultPackages" type="character">
+	<value>datasets</value>
+	<value>utils</value>
+	<value>grDevices</value>
+	<value>graphics</value>
+	<value>stats</value>
+	<value>methods</value>
+ </variable>
+<variable name="demo_ask" type="character">
+	<value>default</value>
+ </variable>
+<variable name="deparse_cutoff" type="numeric">
+	<value>60</value>
+</variable>
+<variable name="device_ask_default" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="digits" type="numeric">
+	<value>7</value>
+</variable>
+<variable name="echo" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="editor" type="character">
+	<value>internal</value>
+ </variable>
+<variable name="encoding" type="character">
+	<value>native.enc</value>
+ </variable>
+<variable name="example_ask" type="character">
+	<value>default</value>
+ </variable>
+<variable name="expressions" type="numeric">
+	<value>5000</value>
+</variable>
+<variable name="help_search_types" type="character">
+	<value>vignette</value>
+	<value>demo</value>
+	<value>help</value>
+ </variable>
+<variable name="help_try_all_packages" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="help_type" type="character">
+	<value>text</value>
+ </variable>
+<variable name="HTTPUserAgent" type="character">
+	<value>R (3.0.0 x86_64-w64-mingw32 x86_64 mingw32)</value>
+ </variable>
+<variable name="internet_info" type="numeric">
+	<value>2</value>
+</variable>
+<variable name="keep_source" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="keep_source_pkgs" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="locatorBell" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="mailer" type="character">
+	<value>mailto</value>
+ </variable>
+<variable name="max_print" type="numeric">
+	<value>99999</value>
+</variable>
+<variable name="menu_graphics" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="na_action" type="character">
+	<value>na.omit</value>
+ </variable>
+<variable name="nwarnings" type="numeric">
+	<value>50</value>
+</variable>
+<variable name="OutDec" type="character">
+	<value>.</value>
+ </variable>
+<variable name="pager" type="character">
+	<value>internal</value>
+ </variable>
+<variable name="papersize" type="character">
+	<value>a4</value>
+ </variable>
+<variable name="pdfviewer" type="character">
+	<value>C:/PROGRA~1/R/R-devel/bin/x64/open.exe</value>
+ </variable>
+<variable name="pkgType" type="character">
+	<value>win.binary</value>
+ </variable>
+<variable name="prompt" type="character">
+	<value>> </value>
+ </variable>
+<variable name="repos" type="character">
+	<value>http://www.stats.bris.ac.uk/R/</value>
+	<value>http://www.stats.ox.ac.uk/pub/RWin</value>
+ </variable>
+<variable name="scipen" type="numeric">
+	<value>0</value>
+</variable>
+<variable name="show_coef_Pvalues" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="show_error_messages" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="show_signif_stars" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="str_dendrogram_last" type="character">
+	<value>`</value>
+ </variable>
+<variable name="stringsAsFactors" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="timeout" type="numeric">
+	<value>60</value>
+</variable>
+<variable name="ts_eps" type="numeric">
+	<value>1e-05</value>
+</variable>
+<variable name="ts_S_compat" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="unzip" type="character">
+	<value>internal</value>
+ </variable>
+<variable name="useFancyQuotes" type="character">
+	<value>TRUE</value>
+ </variable>
+<variable name="verbose" type="character">
+	<value>FALSE</value>
+ </variable>
+<variable name="warn" type="numeric">
+	<value>0</value>
+</variable>
+<variable name="warning_length" type="numeric">
+	<value>1000</value>
+</variable>
+<variable name="width" type="numeric">
+	<value>70</value>
+</variable>
+<variable name="windowsTimeouts" type="numeric">
+	<value>100</value>
+	<value>500</value>
+</variable>
+</root>

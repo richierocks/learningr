@@ -1,0 +1,18 @@
+{
+  "Kingston" : {
+    "population"  : 587798,
+    "coordinates" : 
+    {
+      "longitude" : 17.9833, 
+      "latitude"  : 76.8000
+    } 
+  }, 
+  "Montego Bay" : {
+    "population"  : 96488,
+    "coordinates" : 
+    {
+      "longitude" : 18.4666, 
+      "latitude"  : 77.9166
+    } 
+  }
+}
