@@ -1,8 +1,8 @@
 Package: learningr
 Type: Package
 Title: Data and functions to accompany the book "Learning R".
-Version: 0.28
-Date: 2013-09-06
+Version: 0.29
+Date: 2013-10-20
 Author: Richie Cotton
 Maintainer: Richie Cotton <richierocks@gmail.com>
 Description: Crabs in the English channel, deer skulls, English
@@ -13,10 +13,11 @@ Imports:
     plyr
 Suggests:
     knitr
-License: Unlimited
+License: file LICENSE
 LazyData: TRUE
 VignetteBuilder: knitr
 Collate:
     'learningr-package.R'
     'buggy_count.R'
     'hypotenuse.R'
+    'fix_filenames.R'
