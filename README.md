@@ -12,7 +12,7 @@ Then you can install the `learningr` package using
     library(devtools)
     install_github("learningr", "richierocks")
    
-Some filenames have been changed slightly to conform to CRAN portability requirements.  to change them back to those in the book, type:
+Some filenames have been changed slightly to conform to CRAN portability requirements.  To change them back to those in the book, type:
 
     library(learningr)
     fix_filenames()
