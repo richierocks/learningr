@@ -13,7 +13,7 @@ Imports:
     plyr
 Suggests:
     knitr
-License: file LICENSE
+License: Unlimited
 LazyData: TRUE
 VignetteBuilder: knitr
 Collate:
