@@ -1,8 +1,8 @@
 Package: learningr
 Type: Package
 Title: Data and functions to accompany the book "Learning R".
-Version: 0.29
-Date: 2013-10-20
+Version: 0.3-0
+Date: 2015-02-04
 Author: Richie Cotton
 Maintainer: Richie Cotton <richierocks@gmail.com>
 Description: Crabs in the English channel, deer skulls, English
