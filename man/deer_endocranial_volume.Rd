@@ -34,7 +34,7 @@
 \references{
   The dataset was collected by Corina Logan
   \email{itsme@corinalogan.com}.  It is stored in the Dryad
-  Digital Repository, \url{doi:10.5061/dryad.4t7h2}. A more
+  Digital Repository, \code{doi:10.5061/dryad.4t7h2}. A more
   full analysis is given in the paper Logan CJ,
   Clutton-Brock TH. 2013. Validating methods for estimating
   endocranial volume in individual red deer (Cervus
