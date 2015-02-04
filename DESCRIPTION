@@ -1,7 +1,7 @@
 Package: learningr
 Type: Package
 Title: Data and Functions to Accompany the Book "Learning R"
-Version: 0.3-0
+Version: 0.30
 Date: 2015-02-04
 Author: Richie Cotton
 Maintainer: Richie Cotton <richierocks@gmail.com>
