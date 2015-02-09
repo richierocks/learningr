@@ -10,7 +10,7 @@ To install, you first need the `devtools` package.
 Then you can install the `learningr` package using    
   
     library(devtools)
-    install_github("learningr", "richierocks")
+    install_github("richierocks/learningr")
    
 Some filenames have been changed slightly to conform to CRAN portability requirements.  To change them back to those in the book, type:
 
