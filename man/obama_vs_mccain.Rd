@@ -19,7 +19,7 @@ and the following columns.
 \item{Non.religious}{Percentage of people identifying as non-religious.}
 \item{Black}{Percentage of people identifying as black.}
 \item{Latino}{Percentage of people identifying as Latino.}
-\item{Urbanization}{Percentage of people living in an urban area.}
+\item{Urbanization}{Population per square mile.}
 }}
 \description{
   State-by-state voting information in the 2008 US
